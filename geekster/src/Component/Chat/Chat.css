@@ -1,0 +1,50 @@
+.chatContainer {
+    display: flex;
+    background: #eee;
+    padding: 30px;
+    justify-content: space-around;
+  }
+  
+  @media only screen and (max-width: 600px) {
+    .chatContainer {
+      flex-direction: column;
+    }
+  }
+  
+  .chat {
+    box-shadow: 0 3px 4px rgba(18, 12, 58, 0.5);
+    padding: 30px;
+    color: #888;
+    border-radius: 20px;
+  }
+  
+  .chat input {
+    color: #888;
+    border: none;
+    border-bottom: 1px solid #888;
+    outline: none;
+    padding: 5px 10px;
+  }
+  
+  .chat button {
+    background: lightblue;
+    border: none;
+    margin-left: 5px;
+    border-radius: 2px;
+    padding: 5px 3px;
+  }
+  
+  .msg {
+    padding: 40px 0;
+    background: #fff;
+    margin: 10px 0;
+    padding: 20px;
+  }
+  
+  .msg p {
+    color: rgb(18, 12, 58);
+    background: lightgreen;
+    padding: 5px 10px;
+    border-radius: 10px;
+  }
+  

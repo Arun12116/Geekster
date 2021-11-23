@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.box1{
+    width: 85vw;
+    height: 80vh;
+    border: 5px solid red;
+    border-radius: 3px;
+    background-color: skyblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.inpute1{
+    width: 30vw;
+    height: 30vh;
+    border: 5px solid rgb(246, 250, 246);
+    background-color: cadetblue;
+    
+    border-radius: 6px;
+    padding: 5px;
+    margin: 15px;
+    padding: 10px;
+}
+
+.inpute2{
+    width: 30vw;
+    height: 30vh;
+    border: 5px solid rgb(246, 250, 246);
+    border-radius: 6px;
+    padding: 5px;
+    background-color: cadetblue;
+    
+}
+button{
+    margin: 5px;
+    width: 5vw;
+    height: 5vh;
+    background-color: rgb(28, 95, 28);
+    border-radius: 8px;
+    color:white;
+    border: black;
+    
+
+}
+input{
+   width:20vw; 
+   height:5vh;
+   outline: none;
+   border-radius: 5px;
+   border: 2px solid royalblue;
+   
+}
