@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Geekster/static/css/main.0fc8a76d.chunk.css",
+    "main.js": "/Geekster/static/js/main.0daa7e08.chunk.js",
+    "main.js.map": "/Geekster/static/js/main.0daa7e08.chunk.js.map",
+    "runtime-main.js": "/Geekster/static/js/runtime-main.7c67d0f9.js",
+    "runtime-main.js.map": "/Geekster/static/js/runtime-main.7c67d0f9.js.map",
+    "static/js/2.be1b0352.chunk.js": "/Geekster/static/js/2.be1b0352.chunk.js",
+    "static/js/2.be1b0352.chunk.js.map": "/Geekster/static/js/2.be1b0352.chunk.js.map",
+    "index.html": "/Geekster/index.html",
+    "static/css/main.0fc8a76d.chunk.css.map": "/Geekster/static/css/main.0fc8a76d.chunk.css.map",
+    "static/js/2.be1b0352.chunk.js.LICENSE.txt": "/Geekster/static/js/2.be1b0352.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c67d0f9.js",
+    "static/js/2.be1b0352.chunk.js",
+    "static/css/main.0fc8a76d.chunk.css",
+    "static/js/main.0daa7e08.chunk.js"
+  ]
+}
